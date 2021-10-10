@@ -1,0 +1,22 @@
+{
+  "name": "newreg",
+  "version": "1.0.0",
+  "description": "yusufcavuss tarafından yapılan yeni nesil register bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodee app.js"
+  },
+  "keywords": [
+    "new",
+    "reg"
+  ],
+  "author": "YusufCavuss",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "fs": "*",
+    "moment": "^2.29.1",
+    "mongoose": "^6.0.5",
+    "quick.db": "^7.1.3"
+  }
+}

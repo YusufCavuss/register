@@ -1,0 +1,43 @@
+{
+    "Sunucu":{
+        "ID":"SUNUCU_IDNIZ",
+        "Tag":"SUNUCU_TAGINIZ",
+        "Isim":"SUNUCUNUZUN_ISMI"
+},
+    "Rol":{
+        "Yetkili":"YETKILI_ROLU",
+        "Erkek":"ERKEK_ROLU",
+        "Kız":"KIZ_ROLU",
+        "Kayıtsız":"KAYITSIZ_ROLU",
+        "Yetişkin":"+18_ROLU",
+        "Taglı":"TAGLI_ROLU"
+},
+    "Bot":{
+        "Token":"BOTUNUZUN_TOKENI",
+        "Oynuyor":"BOTUNUZUN_OYNUYOR_KISMI",
+        "Activity":"online",
+        "Prefix":"PREFIXINZ"
+},
+    "Kanal":{
+        "Rules":"KURALLAR_KANALI_ID",
+        "KayıtLog":"KAYIT_LOG_ID",
+        "TagLog":"TAG_LOG_ID",
+        "KayıtChat":"KAYIT_CHAT_ID",
+        "GenelChat":"GENEL_CHAT_ID"
+},
+    "Hata":{
+        "Kullanıcı":"Kullanıcı belirtmelisin!",
+        "Isim":"Isim belirtmelisin!",
+        "IsimKarakter":"Isim harf olmalıdır!",
+        "Yaş":"Yaş belirtmelisin!",
+        "YaşKaraker":"Yaş sayı olmalıdır!",
+        "Yasaklanmış":"Bu kullanıcı yasaklanmış, kayıt edemezsin!"
+},
+    "Emoji":{
+        "Onay":"ONAY_EMOJISI_ID",
+        "Red":"RED_EMOJISI_ID"
+},
+    "MongoDB":{
+        "URL":"MONGO_URL"
+}
+}
